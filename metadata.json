@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EpiCast: Disease Trend Forecaster",
+  "description": "An infectious disease forecasting MVP designed for epidemiological surveillance, providing 4-week forecasts with confidence intervals and AI-driven public health insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
